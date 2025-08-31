@@ -1,3 +1,3 @@
 # Shoot Them Up Game.
 
-An project made with Unreal Engine 5. 
+A project made with Unreal Engine 5. 
